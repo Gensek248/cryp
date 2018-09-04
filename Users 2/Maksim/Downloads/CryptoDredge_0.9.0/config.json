@@ -1,0 +1,34 @@
+{
+  /* multi-line comment */
+  // single-line comment
+  // Uncomment and modify options
+  "algo": "neoscrypt",
+  "url": "stratum+tcp://neoscrypt.mine.zergpool.com:4233",
+  "user": "WALLET_ADDRESS",
+  "pass": "c=GBX"
+  // Add comma to the end of the previous line
+  /* "intensity": 6,
+  "device": "0",
+  "log": "log.txt",
+  "no-color": false,
+  "no-watchdog": false,
+  "retries": 0,
+  "retry-pause": 15,
+  "timeout": 30,
+  "cpu-priority": 3,
+  "api-type": "ccminer-tcp",
+  "api-bind": "127.0.0.1:4068",
+  "pools": [{
+      "algo": "lyra2z",
+      "url": "stratum+tcp://lyra2z.mine.zergpool.com:4553",
+      "user": "WALLET_ADDRESS",
+      "pass": "c=XZC"
+    },
+    {
+      "algo": "lyra2v2",
+      "url": "stratum+tcp://lyra2v2.mine.zergpool.com:4533",
+      "user": "WALLET_ADDRESS",
+      "pass": "c=MONA"
+    }
+  ] */
+}
